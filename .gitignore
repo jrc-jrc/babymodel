@@ -1,0 +1,14 @@
+# Ignore audio data directories
+data/audio/
+
+# Ignore all .wav files (in case there are any outside these directories)
+*.wav
+
+# Ignore all .mp3 files (if you have any)
+*.mp3
+
+# Ignore other potential audio formats
+*.flac
+*.ogg
+*.m4a
+*.DS_Store
